@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Doggypark - About Us</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Doggypark</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="location.html">Location</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="about">
+      <h2>About Doggypark</h2>
+      <p>Doggypark was founded on the belief that every dog deserves a special treat. We're passionate about bringing smiles to furry faces with our delicious Happy Mess!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Doggypark</p>
+  </footer>
+</body>
+</html>
